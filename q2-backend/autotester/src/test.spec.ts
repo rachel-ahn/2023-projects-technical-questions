@@ -124,7 +124,7 @@ describe("Part 2", () => {
         },
         {
           type: "cow",
-          location: { x: 3, y: 3 }
+          location: { x: 2, y: 2 }
         }
       ];
 

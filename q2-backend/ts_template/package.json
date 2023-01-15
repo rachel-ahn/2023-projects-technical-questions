@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "ts-node roundupper_100.ts" 
+    "start": "ts-node roundupper_100.ts"
   },
   "dependencies": {
     "express": "^4.18.2"

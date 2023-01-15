@@ -97,7 +97,7 @@ type spaceEntity =
 ```
 
 - The system should store these entities.
-  - You are guaranteed that each space cowboy has a unique name.
+- You are guaranteed that each space cowboy has a unique name.
 - Endpoint should return a `HTTP 200` status code on a successful operation.
 
 There are two template folders (python and typescript) each of them with a stub `POST /entity` endpoint that you must implement. The input domain has already been modelled for you as types in the respective language.
